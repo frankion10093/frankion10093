@@ -14,14 +14,6 @@
 <img src="https://cdn.jsdelivr.net/gh/frankion10093/frankion10093/line.gif"/>
 </p>
 
-<p>
-    
- <img src="https://cdn.jsdelivr.net/gh/frankion10093/frankion10093/img/picr1.jpg" align="center" ><br>
-
-</p>
-
-
-
 <table align="center">
 <tr>
 <!--功勋墙-->
@@ -88,4 +80,9 @@
   [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/frankion10093)
 </div>
 
+<p>
+    
+ <img src="https://cdn.jsdelivr.net/gh/frankion10093/frankion10093/img/picr1.jpg" align="center" ><br>
+
+</p>
 
