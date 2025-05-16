@@ -80,9 +80,13 @@
   [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/frankion10093)
 </div>
 
+   <img src="https://cdn.jsdelivr.net/gh/frankion10093/frankion10093/wave.svg" align="center" ><br>
+
+<!--
 <p>
     
  <img src="https://cdn.jsdelivr.net/gh/frankion10093/frankion10093/img/picr1.jpg" align="center" ><br>
 
 </p>
+-->
 
