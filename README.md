@@ -29,7 +29,7 @@
   
   <!--贪吃蛇-->   
   <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
-    <img src="https://raw.githubusercontent.com/YanRui06/YanRui06/output/github-contribution-grid-snake.svg" align="center" alt="Contribution eating Snake" />
+      <img src="https://raw.githubusercontent.com/YanRui06/YanRui06/output/github-contribution-grid-snake.svg" align="center" alt="贡献贪吃蛇">
   </a>
 </td>
 </tr>
