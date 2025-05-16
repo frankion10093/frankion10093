@@ -57,9 +57,8 @@
 <!--技能图标-->
 <h2 align="center">👨‍💻 涉及领域 👨‍💻</h2>
 <p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Photoshop.svg" width="40" alt="Photoshop"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/RaspberryPi-Dark.svg" width="40" alt="RaspberryPi"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Dark.svg" width="40" alt="GitHub"/></a>&nbsp;&nbsp;
+          <a href="#"><img src="https://cdn.jsdelivr.net/gh/frankion10093/frankion10093/svgs/Spring.svg" width="40" alt="GitHub"/></a>&nbsp;&nbsp;
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/frankion10093/frankion10093/svgs/Cpp.svg" width="40" alt="GitHub"/></a>&nbsp;&nbsp;
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/frankion10093/frankion10093/svgs/Vue.svg" width="40" alt="GitHub"/></a>&nbsp;&nbsp;
 </p>
 
