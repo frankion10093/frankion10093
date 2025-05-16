@@ -51,7 +51,7 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Photoshop.svg" width="40" alt="Photoshop"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/RaspberryPi-Dark.svg" width="40" alt="RaspberryPi"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Dark.svg" width="40" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="http://www.w3.org/2000/svg" width="40" alt="GitHub"/></a>&nbsp;&nbsp;
+
 </p>
 
 <!--分割线-->
