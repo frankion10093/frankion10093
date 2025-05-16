@@ -50,21 +50,8 @@
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Photoshop.svg" width="40" alt="Photoshop"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/RaspberryPi-Dark.svg" width="40" alt="RaspberryPi"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" width="40" alt="CSS"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" width="40" alt="HTML"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Dark.svg" width="40" alt="Vercel"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Dark.svg" width="40" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Nginx.svg" width="40" alt="Nginx"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Wordpress.svg" width="40" alt="WordPress"/></a>
 </p>
-
-
-<br>
-<!--前往主页-->
-<p align="center"> 
-<a href="https://yanrui06.github.io"/><img src="https://img.shields.io/badge/%E5%89%8F%E5%BE%80%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5-000?style=for-the-badge&logo=ghost&logoColor=yellow" width="170px" height="40px"/></a>
-</p>
-<br>
 
 <!--分割线-->
 <p align="center">
